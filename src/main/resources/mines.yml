@@ -1,0 +1,90 @@
+Dirt:
+  name: '&eШахта грязи'
+  location:
+    x: -24
+    y: 86
+    z: -21
+  icon: DIRT
+  min-level: 1
+Stone:
+  name: '&eКаменная шахта'
+  location:
+    x: 20
+    y: 76
+    z: 8
+    world: M-3
+  icon: STONE
+  min-level: 2
+Fortress:
+  name: '&eКрепость'
+  location:
+    x: -4
+    y: 77
+    z: 0
+    world: M-6
+  icon: STONEBRICK
+  min-level: 4
+Fire:
+  name: '&aАдская шахта'
+  location:
+    x: -85
+    y: 194
+    z: -27
+    world: M-7
+  icon: NETHERRACK
+  min-level: 5
+Spider:
+  name: '&aПаучья шахта'
+  location:
+    x: -137
+    y: 135
+    z: -636
+    world: world
+  icon: WEB
+  min-level: 9
+Slime:
+  name: '&aШахта слизней'
+  location:
+    x: -67
+    y: 86
+    z: -922
+    world: world
+  icon: EMERALD_BLOCK
+  min-level: 11
+Pyramid:
+  name: '&aПирамида'
+  location:
+    x: -25
+    y: 73
+    z: -5
+    world: M-2
+  icon: SANDSTONE
+  min-level: 12
+WaterWorld:
+  name: '&eЗатерянный мир'
+  location:
+    x: 5
+    y: 46
+    z: 18
+    world: M-4
+  icon: PRISMARINE
+  min-level: 14
+Obsidian:
+  name: '&eДревнее королевство'
+  location:
+    x: -136
+    y: 158
+    z: -1468
+    world: world
+  icon: OBSIDIAN
+  min-level: 17
+Vault:
+  name: '&4Подвал'
+  location:
+    x: -77
+    y: 133
+    z: -544
+    world: world
+  icon: ROTTEN_FLESH
+  min-level: 8
+  needbook: true

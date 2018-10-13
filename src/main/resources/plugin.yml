@@ -1,0 +1,5 @@
+name: Zed
+version: 1.0
+main: sexy.criss.simple.prison.Main
+load: POSTWORLD
+depend: [ProtocolLib]
